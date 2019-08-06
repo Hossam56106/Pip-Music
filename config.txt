@@ -1,0 +1,6 @@
+owner=538854163044368404
+prefix=!
+game=7osGamer
+stayinchannel=true
+songinstatus=false
+token=NjA4MDg5NDQ2NTc0NzE4OTky.XUjGAA.kP3nDvzA-SHw_bMNnQKrnHKCVc4
